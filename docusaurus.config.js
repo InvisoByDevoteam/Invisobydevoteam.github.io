@@ -3,13 +3,13 @@
 module.exports = {
   title: 'Inviso Alteryx Documetation',
   tagline: 'Alteryx rules the world!',
-  url: 'https://carleneoestergaard.github.io',
+  url: 'https://portal.github.io',
   baseUrl: '/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'carleneoestergaard', // Usually your GitHub org/user name.
-  projectName: 'carleneoestergaard.github.io', // Usually your repo name.
+  organizationName: 'invisobydevoteam', // Usually your GitHub org/user name.
+  projectName: 'portal.github.io', // Usually your repo name.
   themeConfig: {
     
       algolia: {
