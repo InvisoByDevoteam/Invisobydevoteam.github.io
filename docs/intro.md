@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Intro hi
+# Intro hixc
 
 Here you fill find documentation on common connections, problems, past training and more
 
