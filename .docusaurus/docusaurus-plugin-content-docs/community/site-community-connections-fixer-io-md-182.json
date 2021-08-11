@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Connections/Fixer.io",
+  "id": "Connections/Fixer.io",
+  "isDocsHomePage": false,
+  "title": "Fixer.io",
+  "description": "Fixer.io provides an exchange rate API.",
+  "source": "@site/community/Connections/Fixer.io.md",
+  "sourceDirName": "Connections",
+  "slug": "/Connections/Fixer.io",
+  "permalink": "/build/community/Connections/Fixer.io",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Economic",
+    "permalink": "/build/community/Connections/Economic"
+  },
+  "next": {
+    "title": "Forecast",
+    "permalink": "/build/community/Connections/Forecast"
+  }
+}

@@ -42,6 +42,13 @@ module.exports = {
           position: 'left',
           label: 'Alteryx',
         },
+          {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'Sales',
+        docsPluginId: 'sales',
+        },
         /**{to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/carleneoestergaard/inviso-alteryx',
@@ -118,6 +125,18 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+      },
+    ],
+  ],
+    plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'sales',
+        path: 'sales',
+        routeBasePath: 'sales',
+        sidebarPath: require.resolve('./sidebarsSales.js'),
+        // ... other options
       },
     ],
   ],

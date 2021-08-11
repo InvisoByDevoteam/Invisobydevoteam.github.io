@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/Sellit",
+  "id": "POC/Sellit",
+  "isDocsHomePage": false,
+  "title": "Economic",
+  "description": "Download the macros here",
+  "source": "@site/sales/POC/Sellit.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Sellit",
+  "permalink": "/build/sales/POC/Sellit",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Economic",
+    "permalink": "/build/sales/POC/Past"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/build/sales/AlteryxAPI/general"
+  }
+}

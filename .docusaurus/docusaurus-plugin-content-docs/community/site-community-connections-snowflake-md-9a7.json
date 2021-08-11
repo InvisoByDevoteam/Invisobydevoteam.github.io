@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Connections/Snowflake",
+  "id": "Connections/Snowflake",
+  "isDocsHomePage": false,
+  "title": "Snowflake",
+  "description": "Snowflake integration with Alteryx is quite straightforward, as well as being constantly improved.",
+  "source": "@site/community/Connections/Snowflake.md",
+  "sourceDirName": "Connections",
+  "slug": "/Connections/Snowflake",
+  "permalink": "/build/community/Connections/Snowflake",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rackbeat",
+    "permalink": "/build/community/Connections/Rackbeat"
+  },
+  "next": {
+    "title": "WebCRM",
+    "permalink": "/build/community/Connections/WebCRM"
+  }
+}

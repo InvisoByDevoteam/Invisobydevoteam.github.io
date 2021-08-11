@@ -1,0 +1,25 @@
+{
+  "unversionedId": "POC/Past",
+  "id": "POC/Past",
+  "isDocsHomePage": false,
+  "title": "Past POCs",
+  "description": "",
+  "source": "@site/sales/POC/Past.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Past",
+  "permalink": "/build/sales/POC/Past",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/build/sales/POC/Intro"
+  },
+  "next": {
+    "title": "Process",
+    "permalink": "/build/sales/POC/Process"
+  }
+}

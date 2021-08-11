@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Connections/Harvest",
+  "id": "Connections/Harvest",
+  "isDocsHomePage": false,
+  "title": "Harvest",
+  "description": "Harvest data can be extracted through the Harvest API.",
+  "source": "@site/community/Connections/Harvest.md",
+  "sourceDirName": "Connections",
+  "slug": "/Connections/Harvest",
+  "permalink": "/build/community/Connections/Harvest",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Forecast",
+    "permalink": "/build/community/Connections/Forecast"
+  },
+  "next": {
+    "title": "HubSpot",
+    "permalink": "/build/community/Connections/Hubspot"
+  }
+}

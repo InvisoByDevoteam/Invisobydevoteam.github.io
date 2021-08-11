@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/Snowflake",
+  "id": "POC/Snowflake",
+  "isDocsHomePage": false,
+  "title": "Snowflake",
+  "description": "Snowflake integration with Alteryx is quite straightforward, as well as being constantly improved.",
+  "source": "@site/sales/POC/Snowflake.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Snowflake",
+  "permalink": "/build/sales/POC/Snowflake",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Economic",
+    "permalink": "/build/sales/POC/Sellit"
+  },
+  "next": {
+    "title": "WebCRM",
+    "permalink": "/build/sales/POC/WebCRM"
+  }
+}

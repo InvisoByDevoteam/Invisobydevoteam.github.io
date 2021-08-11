@@ -1,0 +1,25 @@
+{
+  "unversionedId": "POC/Sell",
+  "id": "POC/Sell",
+  "isDocsHomePage": false,
+  "title": "Sell a POC",
+  "description": "",
+  "source": "@site/sales/POC/Sell.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Sell",
+  "permalink": "/build/sales/POC/Sell",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Process",
+    "permalink": "/build/sales/POC/Process"
+  },
+  "next": {
+    "title": "Register Time",
+    "permalink": "/build/sales/POC/TimeRegistration"
+  }
+}

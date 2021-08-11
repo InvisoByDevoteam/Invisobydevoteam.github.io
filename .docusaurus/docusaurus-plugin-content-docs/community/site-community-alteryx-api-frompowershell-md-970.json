@@ -1,0 +1,25 @@
+{
+  "unversionedId": "AlteryxAPI/frompowershell",
+  "id": "AlteryxAPI/frompowershell",
+  "isDocsHomePage": false,
+  "title": "API from Powershell",
+  "description": "How to execute Alteryx workflows with Powershell",
+  "source": "@site/community/AlteryxAPI/frompowershell.md",
+  "sourceDirName": "AlteryxAPI",
+  "slug": "/AlteryxAPI/frompowershell",
+  "permalink": "/build/community/AlteryxAPI/frompowershell",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API from Python",
+    "permalink": "/build/community/AlteryxAPI/frompython"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/build/community/tutorial-basics/create-a-page"
+  }
+}

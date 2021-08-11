@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/Past copy",
+  "id": "POC/Past copy",
+  "isDocsHomePage": false,
+  "title": "Economic",
+  "description": "Download the macros here",
+  "source": "@site/sales/POC/Past copy.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Past copy",
+  "permalink": "/build/sales/POC/Past copy",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/build/sales/intro"
+  },
+  "next": {
+    "title": "Economic",
+    "permalink": "/build/sales/POC/Past"
+  }
+}

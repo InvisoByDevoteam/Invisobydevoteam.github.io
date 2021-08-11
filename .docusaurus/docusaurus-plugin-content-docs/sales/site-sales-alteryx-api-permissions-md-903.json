@@ -1,0 +1,25 @@
+{
+  "unversionedId": "AlteryxAPI/permissions",
+  "id": "AlteryxAPI/permissions",
+  "isDocsHomePage": false,
+  "title": "Permissions",
+  "description": "In order to use the Alteryx Server AP, your user needs to have the access granted.",
+  "source": "@site/sales/AlteryxAPI/permissions.md",
+  "sourceDirName": "AlteryxAPI",
+  "slug": "/AlteryxAPI/permissions",
+  "permalink": "/build/sales/AlteryxAPI/permissions",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/build/sales/AlteryxAPI/general"
+  },
+  "next": {
+    "title": "API from Python",
+    "permalink": "/build/sales/AlteryxAPI/frompython"
+  }
+}

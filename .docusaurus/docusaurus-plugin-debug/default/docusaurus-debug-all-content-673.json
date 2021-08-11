@@ -10,9 +10,9 @@
           "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/carlenejones/GitHub/carleneoestergaard.github.io/sidebars.js",
-          "contentPath": "/Users/carlenejones/GitHub/carleneoestergaard.github.io/docs",
-          "contentPathLocalized": "/Users/carlenejones/GitHub/carleneoestergaard.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/carlenejones/GitHub/portal.github.io/sidebars.js",
+          "contentPath": "/Users/carlenejones/GitHub/portal.github.io/docs",
+          "contentPathLocalized": "/Users/carlenejones/GitHub/portal.github.io/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "intro",
           "sidebars": {
             "tutorialSidebar": [
@@ -778,6 +778,196 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/build/docs/tutorial-extras/manage-docs-versions"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "sales": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/build/sales",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/carlenejones/GitHub/portal.github.io/sidebarsSales.js",
+          "contentPath": "/Users/carlenejones/GitHub/portal.github.io/sales",
+          "contentPathLocalized": "/Users/carlenejones/GitHub/portal.github.io/i18n/en/docusaurus-plugin-content-docs-sales/current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "POCs",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "POC/TimeRegistration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "POC/Intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "POC/Past"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "POC/Process"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "POC/Sell"
+                  }
+                ],
+                "collapsed": true
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/build/sales/intro": "tutorialSidebar",
+            "/build/sales/POC/Intro": "tutorialSidebar",
+            "/build/sales/POC/Past": "tutorialSidebar",
+            "/build/sales/POC/Process": "tutorialSidebar",
+            "/build/sales/POC/Sell": "tutorialSidebar",
+            "/build/sales/POC/TimeRegistration": "tutorialSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Intro",
+              "description": "Here you fill find documentation on common connections, problems, past training and more",
+              "source": "@site/sales/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/build/sales/intro",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Register Time",
+                "permalink": "/build/sales/POC/TimeRegistration"
+              }
+            },
+            {
+              "unversionedId": "POC/Intro",
+              "id": "POC/Intro",
+              "isDocsHomePage": false,
+              "title": "Economic",
+              "description": "Download the macros here",
+              "source": "@site/sales/POC/Intro.md",
+              "sourceDirName": "POC",
+              "slug": "/POC/Intro",
+              "permalink": "/build/sales/POC/Intro",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Register Time",
+                "permalink": "/build/sales/POC/TimeRegistration"
+              },
+              "next": {
+                "title": "Economic",
+                "permalink": "/build/sales/POC/Past"
+              }
+            },
+            {
+              "unversionedId": "POC/Past",
+              "id": "POC/Past",
+              "isDocsHomePage": false,
+              "title": "Economic",
+              "description": "Download the macros here",
+              "source": "@site/sales/POC/Past.md",
+              "sourceDirName": "POC",
+              "slug": "/POC/Past",
+              "permalink": "/build/sales/POC/Past",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Economic",
+                "permalink": "/build/sales/POC/Intro"
+              },
+              "next": {
+                "title": "Economic",
+                "permalink": "/build/sales/POC/Process"
+              }
+            },
+            {
+              "unversionedId": "POC/Process",
+              "id": "POC/Process",
+              "isDocsHomePage": false,
+              "title": "Economic",
+              "description": "Download the macros here",
+              "source": "@site/sales/POC/Process.md",
+              "sourceDirName": "POC",
+              "slug": "/POC/Process",
+              "permalink": "/build/sales/POC/Process",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Economic",
+                "permalink": "/build/sales/POC/Past"
+              },
+              "next": {
+                "title": "Economic",
+                "permalink": "/build/sales/POC/Sell"
+              }
+            },
+            {
+              "unversionedId": "POC/Sell",
+              "id": "POC/Sell",
+              "isDocsHomePage": false,
+              "title": "Economic",
+              "description": "Download the macros here",
+              "source": "@site/sales/POC/Sell.md",
+              "sourceDirName": "POC",
+              "slug": "/POC/Sell",
+              "permalink": "/build/sales/POC/Sell",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Economic",
+                "permalink": "/build/sales/POC/Process"
+              }
+            },
+            {
+              "unversionedId": "POC/TimeRegistration",
+              "id": "POC/TimeRegistration",
+              "isDocsHomePage": false,
+              "title": "Register Time",
+              "description": "",
+              "source": "@site/sales/POC/TimeRegistration.md",
+              "sourceDirName": "POC",
+              "slug": "/POC/TimeRegistration",
+              "permalink": "/build/sales/POC/TimeRegistration",
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Intro",
+                "permalink": "/build/sales/intro"
+              },
+              "next": {
+                "title": "Economic",
+                "permalink": "/build/sales/POC/Intro"
               }
             }
           ]

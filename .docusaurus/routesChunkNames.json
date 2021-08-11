@@ -3,9 +3,9 @@
     "component": "c4f5d8e4",
     "config": "5e9f5e1a"
   },
-  "/build/blog-313": {
+  "/build/blog-d67": {
     "component": "a6aa9e1f",
-    "sidebar": "63f5ac75",
+    "sidebar": "8adc94a8",
     "items": [
       {
         "content": "af172acd"
@@ -19,24 +19,24 @@
     ],
     "metadata": "57300bb5"
   },
-  "/build/blog/hello-world-45e": {
+  "/build/blog/hello-world-7e1": {
     "component": "ccc49370",
-    "sidebar": "63f5ac75",
+    "sidebar": "8adc94a8",
     "content": "d610846f"
   },
-  "/build/blog/hola-e8b": {
+  "/build/blog/hola-0f8": {
     "component": "ccc49370",
-    "sidebar": "63f5ac75",
+    "sidebar": "8adc94a8",
     "content": "bdd709f1"
   },
-  "/build/blog/tags-126": {
+  "/build/blog/tags-ada": {
     "component": "01a85c17",
-    "sidebar": "63f5ac75",
+    "sidebar": "8adc94a8",
     "tags": "7870a6bb"
   },
-  "/build/blog/tags/docusaurus-67b": {
+  "/build/blog/tags/docusaurus-04d": {
     "component": "6875c492",
-    "sidebar": "63f5ac75",
+    "sidebar": "8adc94a8",
     "items": [
       {
         "content": "af172acd"
@@ -50,9 +50,9 @@
     ],
     "metadata": "10a54ddc"
   },
-  "/build/blog/tags/facebook-834": {
+  "/build/blog/tags/facebook-0a3": {
     "component": "6875c492",
-    "sidebar": "63f5ac75",
+    "sidebar": "8adc94a8",
     "items": [
       {
         "content": "af172acd"
@@ -60,9 +60,9 @@
     ],
     "metadata": "510b00ef"
   },
-  "/build/blog/tags/hello-15b": {
+  "/build/blog/tags/hello-a08": {
     "component": "6875c492",
-    "sidebar": "63f5ac75",
+    "sidebar": "8adc94a8",
     "items": [
       {
         "content": "af172acd"
@@ -73,9 +73,9 @@
     ],
     "metadata": "8b947b8d"
   },
-  "/build/blog/tags/hola-1f5": {
+  "/build/blog/tags/hola-db4": {
     "component": "6875c492",
-    "sidebar": "63f5ac75",
+    "sidebar": "8adc94a8",
     "items": [
       {
         "content": "8e9f0a8a"
@@ -83,9 +83,9 @@
     ],
     "metadata": "7db63c73"
   },
-  "/build/blog/welcome-bbd": {
+  "/build/blog/welcome-0f3": {
     "component": "ccc49370",
-    "sidebar": "63f5ac75",
+    "sidebar": "8adc94a8",
     "content": "2868cdab"
   },
   "/build/helloReact-058": {
@@ -96,8 +96,8 @@
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/build/search-aa4": {
-    "component": "efa66bd2"
+  "/build/search-f51": {
+    "component": "58726a0d"
   },
   "/build/docs-125": {
     "component": "1be78505",
@@ -202,5 +202,33 @@
   "/build/docs/tutorial-extras/translate-your-site-1c7": {
     "component": "17896441",
     "content": "e44a2883"
+  },
+  "/build/sales-96d": {
+    "component": "1be78505",
+    "versionMetadata": "4681d0bf"
+  },
+  "/build/sales/intro-3c6": {
+    "component": "17896441",
+    "content": "97b63a8e"
+  },
+  "/build/sales/POC/Intro-b9a": {
+    "component": "17896441",
+    "content": "ef5268e4"
+  },
+  "/build/sales/POC/Past-0c5": {
+    "component": "17896441",
+    "content": "48688a22"
+  },
+  "/build/sales/POC/Process-e7a": {
+    "component": "17896441",
+    "content": "d22fed9d"
+  },
+  "/build/sales/POC/Sell-a3a": {
+    "component": "17896441",
+    "content": "728cbf8d"
+  },
+  "/build/sales/POC/TimeRegistration-651": {
+    "component": "17896441",
+    "content": "c90373e0"
   }
 }

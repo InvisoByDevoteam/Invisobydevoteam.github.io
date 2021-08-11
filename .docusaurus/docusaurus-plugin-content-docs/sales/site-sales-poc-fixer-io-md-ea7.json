@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/Fixer.io",
+  "id": "POC/Fixer.io",
+  "isDocsHomePage": false,
+  "title": "Fixer.io",
+  "description": "Fixer.io provides an exchange rate API.",
+  "source": "@site/sales/POC/Fixer.io.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Fixer.io",
+  "permalink": "/build/sales/POC/Fixer.io",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/build/sales/intro"
+  },
+  "next": {
+    "title": "Forecast",
+    "permalink": "/build/sales/POC/Forecast"
+  }
+}

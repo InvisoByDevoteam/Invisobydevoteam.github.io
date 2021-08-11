@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/Process copy",
+  "id": "POC/Process copy",
+  "isDocsHomePage": false,
+  "title": "Economic",
+  "description": "Download the macros here",
+  "source": "@site/sales/POC/Process copy.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Process copy",
+  "permalink": "/build/sales/POC/Process copy",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Economic",
+    "permalink": "/build/sales/POC/Past"
+  },
+  "next": {
+    "title": "Economic",
+    "permalink": "/build/sales/POC/Process"
+  }
+}

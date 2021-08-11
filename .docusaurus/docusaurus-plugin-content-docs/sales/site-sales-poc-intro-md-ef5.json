@@ -1,0 +1,25 @@
+{
+  "unversionedId": "POC/Intro",
+  "id": "POC/Intro",
+  "isDocsHomePage": false,
+  "title": "Intro",
+  "description": "",
+  "source": "@site/sales/POC/Intro.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Intro",
+  "permalink": "/build/sales/POC/Intro",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/build/sales/intro"
+  },
+  "next": {
+    "title": "Past POCs",
+    "permalink": "/build/sales/POC/Past"
+  }
+}

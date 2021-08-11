@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Connections/Bubble",
+  "id": "Connections/Bubble",
+  "isDocsHomePage": false,
+  "title": "Bubble",
+  "description": "Connecting to Bubble.io is a fairly straightfoward API with an API auth token.",
+  "source": "@site/community/Connections/Bubble.md",
+  "sourceDirName": "Connections",
+  "slug": "/Connections/Bubble",
+  "permalink": "/build/community/Connections/Bubble",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/build/community/intro"
+  },
+  "next": {
+    "title": "Economic",
+    "permalink": "/build/community/Connections/Economic"
+  }
+}

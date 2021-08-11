@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Connections/Microsoft Dynamics",
+  "id": "Connections/Microsoft Dynamics",
+  "isDocsHomePage": false,
+  "title": "Microsoft Dynamics",
+  "description": "Alteryx to Microsoft Dynamics CRM",
+  "source": "@site/community/Connections/Microsoft Dynamics.md",
+  "sourceDirName": "Connections",
+  "slug": "/Connections/Microsoft Dynamics",
+  "permalink": "/build/community/Connections/Microsoft Dynamics",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Maconomy",
+    "permalink": "/build/community/Connections/Maconomy"
+  },
+  "next": {
+    "title": "Oracle Databases",
+    "permalink": "/build/community/Connections/Oracle"
+  }
+}

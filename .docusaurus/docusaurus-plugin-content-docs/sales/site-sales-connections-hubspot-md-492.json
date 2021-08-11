@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Connections/Hubspot",
+  "id": "Connections/Hubspot",
+  "isDocsHomePage": false,
+  "title": "HubSpot",
+  "description": "HubSpot's API support both OAuth and API keys.",
+  "source": "@site/sales/Connections/Hubspot.md",
+  "sourceDirName": "Connections",
+  "slug": "/Connections/Hubspot",
+  "permalink": "/build/sales/Connections/Hubspot",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Harvest",
+    "permalink": "/build/sales/Connections/Harvest"
+  },
+  "next": {
+    "title": "Maconomy",
+    "permalink": "/build/sales/Connections/Maconomy"
+  }
+}

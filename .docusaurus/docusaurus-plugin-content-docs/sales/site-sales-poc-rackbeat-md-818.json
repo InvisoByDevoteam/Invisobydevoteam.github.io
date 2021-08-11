@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/Rackbeat",
+  "id": "POC/Rackbeat",
+  "isDocsHomePage": false,
+  "title": "Rackbeat",
+  "description": "Connecting to the Rackbeat API is quite straigtforward.",
+  "source": "@site/sales/POC/Rackbeat.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Rackbeat",
+  "permalink": "/build/sales/POC/Rackbeat",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Oracle Databases",
+    "permalink": "/build/sales/POC/Oracle"
+  },
+  "next": {
+    "title": "Economic",
+    "permalink": "/build/sales/POC/Sellit"
+  }
+}

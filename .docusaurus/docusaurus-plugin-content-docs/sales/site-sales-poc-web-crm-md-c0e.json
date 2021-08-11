@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/WebCRM",
+  "id": "POC/WebCRM",
+  "isDocsHomePage": false,
+  "title": "WebCRM",
+  "description": "Download the macros here",
+  "source": "@site/sales/POC/WebCRM.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/WebCRM",
+  "permalink": "/build/sales/POC/WebCRM",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Snowflake",
+    "permalink": "/build/sales/POC/Snowflake"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/build/sales/AlteryxAPI/general"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/Sellit copy",
+  "id": "POC/Sellit copy",
+  "isDocsHomePage": false,
+  "title": "Economic",
+  "description": "Download the macros here",
+  "source": "@site/sales/POC/Sellit copy.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Sellit copy",
+  "permalink": "/build/sales/POC/Sellit copy",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/build/sales/intro"
+  },
+  "next": {
+    "title": "Economic",
+    "permalink": "/build/sales/POC/Sellit"
+  }
+}

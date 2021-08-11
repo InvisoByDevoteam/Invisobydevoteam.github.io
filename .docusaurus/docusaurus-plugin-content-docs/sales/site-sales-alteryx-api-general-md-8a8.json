@@ -1,0 +1,25 @@
+{
+  "unversionedId": "AlteryxAPI/general",
+  "id": "AlteryxAPI/general",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Alteryx server API is really helpful when you need to trigger a workflow based on an event, but it is not the easiest thing to work with.",
+  "source": "@site/sales/AlteryxAPI/general.md",
+  "sourceDirName": "AlteryxAPI",
+  "slug": "/AlteryxAPI/general",
+  "permalink": "/build/sales/AlteryxAPI/general",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Economic",
+    "permalink": "/build/sales/POC/TimeRegistration"
+  },
+  "next": {
+    "title": "Permissions",
+    "permalink": "/build/sales/AlteryxAPI/permissions"
+  }
+}

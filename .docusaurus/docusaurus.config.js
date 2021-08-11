@@ -1,13 +1,13 @@
 export default {
   "title": "Inviso Alteryx Documetation",
   "tagline": "Alteryx rules the world!",
-  "url": "https://carleneoestergaard.github.io",
+  "url": "https://invisobydevoteam.github.io",
   "baseUrl": "/build/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
-  "organizationName": "carleneoestergaard",
-  "projectName": "carleneoestergaard.github.io",
+  "favicon": "img/favicon.png",
+  "organizationName": "invisobydevoteam",
+  "projectName": "portal.github.io",
   "themeConfig": {
     "algolia": {
       "apiKey": "YOUR_API_KEY",
@@ -28,6 +28,14 @@ export default {
           "docId": "intro",
           "position": "left",
           "label": "Alteryx",
+          "activeSidebarClassName": "navbar__link--active"
+        },
+        {
+          "type": "doc",
+          "docId": "intro",
+          "position": "left",
+          "label": "Sales",
+          "docsPluginId": "sales",
           "activeSidebarClassName": "navbar__link--active"
         }
       ],
@@ -72,7 +80,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/carlenejones/GitHub/carleneoestergaard.github.io/sidebars.js",
+          "sidebarPath": "/Users/carlenejones/GitHub/portal.github.io/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -80,8 +88,19 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/carlenejones/GitHub/carleneoestergaard.github.io/src/css/custom.css"
+          "customCss": "/Users/carlenejones/GitHub/portal.github.io/src/css/custom.css"
         }
+      }
+    ]
+  ],
+  "plugins": [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "sales",
+        "path": "sales",
+        "routeBasePath": "sales",
+        "sidebarPath": "/Users/carlenejones/GitHub/portal.github.io/sidebarsSales.js"
       }
     ]
   ],
@@ -95,7 +114,6 @@ export default {
   },
   "onDuplicateRoutes": "warn",
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "titleDelimiter": "|",
   "noIndex": false

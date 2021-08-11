@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/Microsoft Dynamics",
+  "id": "POC/Microsoft Dynamics",
+  "isDocsHomePage": false,
+  "title": "Microsoft Dynamics",
+  "description": "Alteryx to Microsoft Dynamics CRM",
+  "source": "@site/sales/POC/Microsoft Dynamics.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Microsoft Dynamics",
+  "permalink": "/build/sales/POC/Microsoft Dynamics",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Maconomy",
+    "permalink": "/build/sales/POC/Maconomy"
+  },
+  "next": {
+    "title": "Oracle Databases",
+    "permalink": "/build/sales/POC/Oracle"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "POC/Process",
+  "id": "POC/Process",
+  "isDocsHomePage": false,
+  "title": "Process",
+  "description": "",
+  "source": "@site/sales/POC/Process.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Process",
+  "permalink": "/build/sales/POC/Process",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Past POCs",
+    "permalink": "/build/sales/POC/Past"
+  },
+  "next": {
+    "title": "Sell a POC",
+    "permalink": "/build/sales/POC/Sell"
+  }
+}

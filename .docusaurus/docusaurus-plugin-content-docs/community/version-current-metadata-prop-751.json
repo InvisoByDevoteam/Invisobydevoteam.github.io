@@ -1,0 +1,184 @@
+{
+  "pluginId": "community",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Intro",
+        "href": "/build/community/intro"
+      },
+      {
+        "type": "category",
+        "label": "Connections",
+        "items": [
+          {
+            "type": "link",
+            "label": "Economic",
+            "href": "/build/community/Connections/Economic"
+          },
+          {
+            "type": "link",
+            "label": "Fixer.io",
+            "href": "/build/community/Connections/Fixer.io"
+          },
+          {
+            "type": "link",
+            "label": "Forecast",
+            "href": "/build/community/Connections/Forecast"
+          },
+          {
+            "type": "link",
+            "label": "Harvest",
+            "href": "/build/community/Connections/Harvest"
+          },
+          {
+            "type": "link",
+            "label": "HubSpot",
+            "href": "/build/community/Connections/Hubspot"
+          },
+          {
+            "type": "link",
+            "label": "Maconomy",
+            "href": "/build/community/Connections/Maconomy"
+          },
+          {
+            "type": "link",
+            "label": "Microsoft Dynamics",
+            "href": "/build/community/Connections/Microsoft Dynamics"
+          },
+          {
+            "type": "link",
+            "label": "Oracle Databases",
+            "href": "/build/community/Connections/Oracle"
+          },
+          {
+            "type": "link",
+            "label": "Rackbeat",
+            "href": "/build/community/Connections/Rackbeat"
+          },
+          {
+            "type": "link",
+            "label": "Snowflake",
+            "href": "/build/community/Connections/Snowflake"
+          },
+          {
+            "type": "link",
+            "label": "WebCRM",
+            "href": "/build/community/Connections/WebCRM"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "Alteyx Server API",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/build/community/AlteryxAPI/general"
+          },
+          {
+            "type": "link",
+            "label": "Permissions",
+            "href": "/build/community/AlteryxAPI/permissions"
+          },
+          {
+            "type": "link",
+            "label": "API from Python",
+            "href": "/build/community/AlteryxAPI/frompython"
+          },
+          {
+            "type": "link",
+            "label": "API from Powershell",
+            "href": "/build/community/AlteryxAPI/frompowershell"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Basics",
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a Page",
+            "href": "/build/community/tutorial-basics/create-a-page"
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/build/community/tutorial-basics/create-a-document"
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/build/community/tutorial-basics/create-a-blog-post"
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/build/community/tutorial-basics/markdown-features"
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/build/community/tutorial-basics/deploy-your-site"
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/build/community/tutorial-basics/congratulations"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Extras",
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/build/community/tutorial-extras/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/build/community/tutorial-extras/translate-your-site"
+          }
+        ],
+        "collapsed": true
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/build/community/AlteryxAPI/frompowershell": "tutorialSidebar",
+    "/build/community/AlteryxAPI/frompython": "tutorialSidebar",
+    "/build/community/AlteryxAPI/general": "tutorialSidebar",
+    "/build/community/AlteryxAPI/permissions": "tutorialSidebar",
+    "/build/community/Connections/Economic": "tutorialSidebar",
+    "/build/community/Connections/Fixer.io": "tutorialSidebar",
+    "/build/community/Connections/Forecast": "tutorialSidebar",
+    "/build/community/Connections/Harvest": "tutorialSidebar",
+    "/build/community/Connections/Hubspot": "tutorialSidebar",
+    "/build/community/Connections/Maconomy": "tutorialSidebar",
+    "/build/community/Connections/Microsoft Dynamics": "tutorialSidebar",
+    "/build/community/Connections/Oracle": "tutorialSidebar",
+    "/build/community/Connections/Rackbeat": "tutorialSidebar",
+    "/build/community/Connections/Snowflake": "tutorialSidebar",
+    "/build/community/Connections/WebCRM": "tutorialSidebar",
+    "/build/community/intro": "tutorialSidebar",
+    "/build/community/tutorial-basics/congratulations": "tutorialSidebar",
+    "/build/community/tutorial-basics/create-a-blog-post": "tutorialSidebar",
+    "/build/community/tutorial-basics/create-a-document": "tutorialSidebar",
+    "/build/community/tutorial-basics/create-a-page": "tutorialSidebar",
+    "/build/community/tutorial-basics/deploy-your-site": "tutorialSidebar",
+    "/build/community/tutorial-basics/markdown-features": "tutorialSidebar",
+    "/build/community/tutorial-extras/manage-docs-versions": "tutorialSidebar",
+    "/build/community/tutorial-extras/translate-your-site": "tutorialSidebar"
+  }
+}

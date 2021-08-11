@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/Sell copy",
+  "id": "POC/Sell copy",
+  "isDocsHomePage": false,
+  "title": "Economic",
+  "description": "Download the macros here",
+  "source": "@site/sales/POC/Sell copy.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Sell copy",
+  "permalink": "/build/sales/POC/Sell copy",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Economic",
+    "permalink": "/build/sales/POC/Past"
+  },
+  "next": {
+    "title": "Economic",
+    "permalink": "/build/sales/POC/Sell"
+  }
+}

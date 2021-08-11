@@ -9,47 +9,47 @@ export default [
 },
 {
   path: '/build/blog',
-  component: ComponentCreator('/build/blog','313'),
+  component: ComponentCreator('/build/blog','d67'),
   exact: true,
 },
 {
   path: '/build/blog/hello-world',
-  component: ComponentCreator('/build/blog/hello-world','45e'),
+  component: ComponentCreator('/build/blog/hello-world','7e1'),
   exact: true,
 },
 {
   path: '/build/blog/hola',
-  component: ComponentCreator('/build/blog/hola','e8b'),
+  component: ComponentCreator('/build/blog/hola','0f8'),
   exact: true,
 },
 {
   path: '/build/blog/tags',
-  component: ComponentCreator('/build/blog/tags','126'),
+  component: ComponentCreator('/build/blog/tags','ada'),
   exact: true,
 },
 {
   path: '/build/blog/tags/docusaurus',
-  component: ComponentCreator('/build/blog/tags/docusaurus','67b'),
+  component: ComponentCreator('/build/blog/tags/docusaurus','04d'),
   exact: true,
 },
 {
   path: '/build/blog/tags/facebook',
-  component: ComponentCreator('/build/blog/tags/facebook','834'),
+  component: ComponentCreator('/build/blog/tags/facebook','0a3'),
   exact: true,
 },
 {
   path: '/build/blog/tags/hello',
-  component: ComponentCreator('/build/blog/tags/hello','15b'),
+  component: ComponentCreator('/build/blog/tags/hello','a08'),
   exact: true,
 },
 {
   path: '/build/blog/tags/hola',
-  component: ComponentCreator('/build/blog/tags/hola','1f5'),
+  component: ComponentCreator('/build/blog/tags/hola','db4'),
   exact: true,
 },
 {
   path: '/build/blog/welcome',
-  component: ComponentCreator('/build/blog/welcome','bbd'),
+  component: ComponentCreator('/build/blog/welcome','0f3'),
   exact: true,
 },
 {
@@ -64,7 +64,7 @@ export default [
 },
 {
   path: '/build/search',
-  component: ComponentCreator('/build/search','aa4'),
+  component: ComponentCreator('/build/search','f51'),
   exact: true,
 },
 {
@@ -195,6 +195,43 @@ export default [
 {
   path: '/build/docs/tutorial-extras/translate-your-site',
   component: ComponentCreator('/build/docs/tutorial-extras/translate-your-site','1c7'),
+  exact: true,
+},
+]
+},
+{
+  path: '/build/sales',
+  component: ComponentCreator('/build/sales','96d'),
+  
+  routes: [
+{
+  path: '/build/sales/intro',
+  component: ComponentCreator('/build/sales/intro','3c6'),
+  exact: true,
+},
+{
+  path: '/build/sales/POC/Intro',
+  component: ComponentCreator('/build/sales/POC/Intro','b9a'),
+  exact: true,
+},
+{
+  path: '/build/sales/POC/Past',
+  component: ComponentCreator('/build/sales/POC/Past','0c5'),
+  exact: true,
+},
+{
+  path: '/build/sales/POC/Process',
+  component: ComponentCreator('/build/sales/POC/Process','e7a'),
+  exact: true,
+},
+{
+  path: '/build/sales/POC/Sell',
+  component: ComponentCreator('/build/sales/POC/Sell','a3a'),
+  exact: true,
+},
+{
+  path: '/build/sales/POC/TimeRegistration',
+  component: ComponentCreator('/build/sales/POC/TimeRegistration','651'),
   exact: true,
 },
 ]

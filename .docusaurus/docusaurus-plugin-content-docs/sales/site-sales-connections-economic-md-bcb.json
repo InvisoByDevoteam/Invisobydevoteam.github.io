@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Connections/Economic",
+  "id": "Connections/Economic",
+  "isDocsHomePage": false,
+  "title": "Economic",
+  "description": "Download the macros here",
+  "source": "@site/sales/Connections/Economic.md",
+  "sourceDirName": "Connections",
+  "slug": "/Connections/Economic",
+  "permalink": "/build/sales/Connections/Economic",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/build/sales/intro"
+  },
+  "next": {
+    "title": "Fixer.io",
+    "permalink": "/build/sales/Connections/Fixer.io"
+  }
+}

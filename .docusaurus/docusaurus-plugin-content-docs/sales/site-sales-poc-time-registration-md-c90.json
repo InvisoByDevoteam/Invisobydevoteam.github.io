@@ -1,0 +1,21 @@
+{
+  "unversionedId": "POC/TimeRegistration",
+  "id": "POC/TimeRegistration",
+  "isDocsHomePage": false,
+  "title": "Register Time",
+  "description": "",
+  "source": "@site/sales/POC/TimeRegistration.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/TimeRegistration",
+  "permalink": "/build/sales/POC/TimeRegistration",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sell a POC",
+    "permalink": "/build/sales/POC/Sell"
+  }
+}

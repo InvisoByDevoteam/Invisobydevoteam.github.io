@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Connections/WebCRM",
+  "id": "Connections/WebCRM",
+  "isDocsHomePage": false,
+  "title": "WebCRM",
+  "description": "Download the macros here",
+  "source": "@site/community/Connections/WebCRM.md",
+  "sourceDirName": "Connections",
+  "slug": "/Connections/WebCRM",
+  "permalink": "/build/community/Connections/WebCRM",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Snowflake",
+    "permalink": "/build/community/Connections/Snowflake"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/build/community/AlteryxAPI/general"
+  }
+}

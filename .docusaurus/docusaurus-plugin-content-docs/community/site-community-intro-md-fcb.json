@@ -1,0 +1,21 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Intro",
+  "description": "Here you fill find documentation on common connections, problems, past training and more",
+  "source": "@site/community/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/build/community/intro",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Economic",
+    "permalink": "/build/community/Connections/Economic"
+  }
+}

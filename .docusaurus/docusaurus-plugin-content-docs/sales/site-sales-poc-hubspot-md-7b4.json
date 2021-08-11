@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/Hubspot",
+  "id": "POC/Hubspot",
+  "isDocsHomePage": false,
+  "title": "HubSpot",
+  "description": "HubSpot's API support both OAuth and API keys.",
+  "source": "@site/sales/POC/Hubspot.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Hubspot",
+  "permalink": "/build/sales/POC/Hubspot",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Harvest",
+    "permalink": "/build/sales/POC/Harvest"
+  },
+  "next": {
+    "title": "Maconomy",
+    "permalink": "/build/sales/POC/Maconomy"
+  }
+}

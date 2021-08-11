@@ -1,0 +1,22 @@
+{
+  "unversionedId": "POC/Forecast",
+  "id": "POC/Forecast",
+  "isDocsHomePage": false,
+  "title": "Forecast",
+  "description": "Forecast data can be extracted through the Harvest API.",
+  "source": "@site/sales/POC/Forecast.md",
+  "sourceDirName": "POC",
+  "slug": "/POC/Forecast",
+  "permalink": "/build/sales/POC/Forecast",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fixer.io",
+    "permalink": "/build/sales/POC/Fixer.io"
+  },
+  "next": {
+    "title": "Harvest",
+    "permalink": "/build/sales/POC/Harvest"
+  }
+}
