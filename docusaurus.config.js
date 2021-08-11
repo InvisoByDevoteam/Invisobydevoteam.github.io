@@ -3,7 +3,7 @@
 module.exports = {
   title: 'Inviso Alteryx Documetation',
   tagline: 'Alteryx rules the world!',
-  url: 'https://portal.github.io',
+  url: 'https://invisobydevoteam.github.io',
   baseUrl: '/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
