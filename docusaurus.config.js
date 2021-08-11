@@ -7,7 +7,7 @@ module.exports = {
   baseUrl: '/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'invisobydevoteam', // Usually your GitHub org/user name.
   projectName: 'portal.github.io', // Usually your repo name.
   themeConfig: {
