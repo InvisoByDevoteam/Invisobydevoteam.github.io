@@ -1,0 +1,968 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/build/docs",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/carlenejones/GitHub/carleneoestergaard.github.io/sidebars.js",
+          "contentPath": "/Users/carlenejones/GitHub/carleneoestergaard.github.io/docs",
+          "contentPathLocalized": "/Users/carlenejones/GitHub/carleneoestergaard.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Connections",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Connections/Bubble"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Connections/Economic"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Connections/Fixer.io"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Connections/Forecast"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Connections/Harvest"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Connections/Hubspot"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Connections/Maconomy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Connections/Microsoft Dynamics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Connections/Oracle"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Connections/Rackbeat"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Connections/Snowflake"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Connections/WebCRM"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "Alteyx Server API",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "AlteryxAPI/general"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "AlteryxAPI/permissions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "AlteryxAPI/frompython"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "AlteryxAPI/frompowershell"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Basics",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/congratulations"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Extras",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/translate-your-site"
+                  }
+                ],
+                "collapsed": true
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/build/docs/AlteryxAPI/frompowershell": "tutorialSidebar",
+            "/build/docs/AlteryxAPI/frompython": "tutorialSidebar",
+            "/build/docs/AlteryxAPI/general": "tutorialSidebar",
+            "/build/docs/AlteryxAPI/permissions": "tutorialSidebar",
+            "/build/docs/Connections/Bubble": "tutorialSidebar",
+            "/build/docs/Connections/Economic": "tutorialSidebar",
+            "/build/docs/Connections/Fixer.io": "tutorialSidebar",
+            "/build/docs/Connections/Forecast": "tutorialSidebar",
+            "/build/docs/Connections/Harvest": "tutorialSidebar",
+            "/build/docs/Connections/Hubspot": "tutorialSidebar",
+            "/build/docs/Connections/Maconomy": "tutorialSidebar",
+            "/build/docs/Connections/Microsoft Dynamics": "tutorialSidebar",
+            "/build/docs/Connections/Oracle": "tutorialSidebar",
+            "/build/docs/Connections/Rackbeat": "tutorialSidebar",
+            "/build/docs/Connections/Snowflake": "tutorialSidebar",
+            "/build/docs/Connections/WebCRM": "tutorialSidebar",
+            "/build/docs/intro": "tutorialSidebar",
+            "/build/docs/tutorial-basics/congratulations": "tutorialSidebar",
+            "/build/docs/tutorial-basics/create-a-blog-post": "tutorialSidebar",
+            "/build/docs/tutorial-basics/create-a-document": "tutorialSidebar",
+            "/build/docs/tutorial-basics/create-a-page": "tutorialSidebar",
+            "/build/docs/tutorial-basics/deploy-your-site": "tutorialSidebar",
+            "/build/docs/tutorial-basics/markdown-features": "tutorialSidebar",
+            "/build/docs/tutorial-extras/manage-docs-versions": "tutorialSidebar",
+            "/build/docs/tutorial-extras/translate-your-site": "tutorialSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "AlteryxAPI/frompowershell",
+              "id": "AlteryxAPI/frompowershell",
+              "isDocsHomePage": false,
+              "title": "API from Powershell",
+              "description": "How to execute Alteryx workflows with Powershell",
+              "source": "@site/docs/AlteryxAPI/frompowershell.md",
+              "sourceDirName": "AlteryxAPI",
+              "slug": "/AlteryxAPI/frompowershell",
+              "permalink": "/build/docs/AlteryxAPI/frompowershell",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/AlteryxAPI/frompowershell.md",
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "API from Python",
+                "permalink": "/build/docs/AlteryxAPI/frompython"
+              },
+              "next": {
+                "title": "Create a Page",
+                "permalink": "/build/docs/tutorial-basics/create-a-page"
+              }
+            },
+            {
+              "unversionedId": "AlteryxAPI/frompython",
+              "id": "AlteryxAPI/frompython",
+              "isDocsHomePage": false,
+              "title": "API from Python",
+              "description": "How to execute Alteryx workflows with Python",
+              "source": "@site/docs/AlteryxAPI/frompython.md",
+              "sourceDirName": "AlteryxAPI",
+              "slug": "/AlteryxAPI/frompython",
+              "permalink": "/build/docs/AlteryxAPI/frompython",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/AlteryxAPI/frompython.md",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Permissions",
+                "permalink": "/build/docs/AlteryxAPI/permissions"
+              },
+              "next": {
+                "title": "API from Powershell",
+                "permalink": "/build/docs/AlteryxAPI/frompowershell"
+              }
+            },
+            {
+              "unversionedId": "AlteryxAPI/general",
+              "id": "AlteryxAPI/general",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "Alteryx server API is really helpful when you need to trigger a workflow based on an event, but it is not the easiest thing to work with.",
+              "source": "@site/docs/AlteryxAPI/general.md",
+              "sourceDirName": "AlteryxAPI",
+              "slug": "/AlteryxAPI/general",
+              "permalink": "/build/docs/AlteryxAPI/general",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/AlteryxAPI/general.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "WebCRM",
+                "permalink": "/build/docs/Connections/WebCRM"
+              },
+              "next": {
+                "title": "Permissions",
+                "permalink": "/build/docs/AlteryxAPI/permissions"
+              }
+            },
+            {
+              "unversionedId": "AlteryxAPI/permissions",
+              "id": "AlteryxAPI/permissions",
+              "isDocsHomePage": false,
+              "title": "Permissions",
+              "description": "In order to use the Alteryx Server AP, your user needs to have the access granted.",
+              "source": "@site/docs/AlteryxAPI/permissions.md",
+              "sourceDirName": "AlteryxAPI",
+              "slug": "/AlteryxAPI/permissions",
+              "permalink": "/build/docs/AlteryxAPI/permissions",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/AlteryxAPI/permissions.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/build/docs/AlteryxAPI/general"
+              },
+              "next": {
+                "title": "API from Python",
+                "permalink": "/build/docs/AlteryxAPI/frompython"
+              }
+            },
+            {
+              "unversionedId": "Connections/Bubble",
+              "id": "Connections/Bubble",
+              "isDocsHomePage": false,
+              "title": "Bubble",
+              "description": "Connecting to Bubble.io is a fairly straightfoward API with an API auth token.",
+              "source": "@site/docs/Connections/Bubble.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/Bubble",
+              "permalink": "/build/docs/Connections/Bubble",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Bubble.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Intro",
+                "permalink": "/build/docs/intro"
+              },
+              "next": {
+                "title": "Economic",
+                "permalink": "/build/docs/Connections/Economic"
+              }
+            },
+            {
+              "unversionedId": "Connections/Economic",
+              "id": "Connections/Economic",
+              "isDocsHomePage": false,
+              "title": "Economic",
+              "description": "Download the macros here",
+              "source": "@site/docs/Connections/Economic.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/Economic",
+              "permalink": "/build/docs/Connections/Economic",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Economic.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bubble",
+                "permalink": "/build/docs/Connections/Bubble"
+              },
+              "next": {
+                "title": "Fixer.io",
+                "permalink": "/build/docs/Connections/Fixer.io"
+              }
+            },
+            {
+              "unversionedId": "Connections/Fixer.io",
+              "id": "Connections/Fixer.io",
+              "isDocsHomePage": false,
+              "title": "Fixer.io",
+              "description": "Fixer.io provides an exchange rate API.",
+              "source": "@site/docs/Connections/Fixer.io.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/Fixer.io",
+              "permalink": "/build/docs/Connections/Fixer.io",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Fixer.io.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Economic",
+                "permalink": "/build/docs/Connections/Economic"
+              },
+              "next": {
+                "title": "Forecast",
+                "permalink": "/build/docs/Connections/Forecast"
+              }
+            },
+            {
+              "unversionedId": "Connections/Forecast",
+              "id": "Connections/Forecast",
+              "isDocsHomePage": false,
+              "title": "Forecast",
+              "description": "Forecast data can be extracted through the Harvest API.",
+              "source": "@site/docs/Connections/Forecast.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/Forecast",
+              "permalink": "/build/docs/Connections/Forecast",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Forecast.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Fixer.io",
+                "permalink": "/build/docs/Connections/Fixer.io"
+              },
+              "next": {
+                "title": "Harvest",
+                "permalink": "/build/docs/Connections/Harvest"
+              }
+            },
+            {
+              "unversionedId": "Connections/Harvest",
+              "id": "Connections/Harvest",
+              "isDocsHomePage": false,
+              "title": "Harvest",
+              "description": "Harvest data can be extracted through the Harvest API.",
+              "source": "@site/docs/Connections/Harvest.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/Harvest",
+              "permalink": "/build/docs/Connections/Harvest",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Harvest.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Forecast",
+                "permalink": "/build/docs/Connections/Forecast"
+              },
+              "next": {
+                "title": "HubSpot",
+                "permalink": "/build/docs/Connections/Hubspot"
+              }
+            },
+            {
+              "unversionedId": "Connections/Hubspot",
+              "id": "Connections/Hubspot",
+              "isDocsHomePage": false,
+              "title": "HubSpot",
+              "description": "HubSpot's API support both OAuth and API keys.",
+              "source": "@site/docs/Connections/Hubspot.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/Hubspot",
+              "permalink": "/build/docs/Connections/Hubspot",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Hubspot.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Harvest",
+                "permalink": "/build/docs/Connections/Harvest"
+              },
+              "next": {
+                "title": "Maconomy",
+                "permalink": "/build/docs/Connections/Maconomy"
+              }
+            },
+            {
+              "unversionedId": "Connections/Maconomy",
+              "id": "Connections/Maconomy",
+              "isDocsHomePage": false,
+              "title": "Maconomy",
+              "description": "To connect to maconomy you should be able to use a standard ODBC connection. This is very good",
+              "source": "@site/docs/Connections/Maconomy.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/Maconomy",
+              "permalink": "/build/docs/Connections/Maconomy",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Maconomy.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "HubSpot",
+                "permalink": "/build/docs/Connections/Hubspot"
+              },
+              "next": {
+                "title": "Microsoft Dynamics",
+                "permalink": "/build/docs/Connections/Microsoft Dynamics"
+              }
+            },
+            {
+              "unversionedId": "Connections/Microsoft Dynamics",
+              "id": "Connections/Microsoft Dynamics",
+              "isDocsHomePage": false,
+              "title": "Microsoft Dynamics",
+              "description": "Alteryx to Microsoft Dynamics CRM",
+              "source": "@site/docs/Connections/Microsoft Dynamics.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/Microsoft Dynamics",
+              "permalink": "/build/docs/Connections/Microsoft Dynamics",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Microsoft Dynamics.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Maconomy",
+                "permalink": "/build/docs/Connections/Maconomy"
+              },
+              "next": {
+                "title": "Oracle Databases",
+                "permalink": "/build/docs/Connections/Oracle"
+              }
+            },
+            {
+              "unversionedId": "Connections/Oracle",
+              "id": "Connections/Oracle",
+              "isDocsHomePage": false,
+              "title": "Oracle Databases",
+              "description": "Connecting to oracle databases is a pain in the ass. There are many blogs online about how to do it, which all seem to offer different options. Below is how we connected to oracle at Devoteam FR, and hopefully you can copy the process for your own.",
+              "source": "@site/docs/Connections/Oracle.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/Oracle",
+              "permalink": "/build/docs/Connections/Oracle",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Oracle.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Microsoft Dynamics",
+                "permalink": "/build/docs/Connections/Microsoft Dynamics"
+              },
+              "next": {
+                "title": "Rackbeat",
+                "permalink": "/build/docs/Connections/Rackbeat"
+              }
+            },
+            {
+              "unversionedId": "Connections/Rackbeat",
+              "id": "Connections/Rackbeat",
+              "isDocsHomePage": false,
+              "title": "Rackbeat",
+              "description": "Connecting to the Rackbeat API is quite straigtforward.",
+              "source": "@site/docs/Connections/Rackbeat.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/Rackbeat",
+              "permalink": "/build/docs/Connections/Rackbeat",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Rackbeat.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Oracle Databases",
+                "permalink": "/build/docs/Connections/Oracle"
+              },
+              "next": {
+                "title": "Snowflake",
+                "permalink": "/build/docs/Connections/Snowflake"
+              }
+            },
+            {
+              "unversionedId": "Connections/Snowflake",
+              "id": "Connections/Snowflake",
+              "isDocsHomePage": false,
+              "title": "Snowflake",
+              "description": "Snowflake integration with Alteryx is quite straightforward, as well as being constantly improved.",
+              "source": "@site/docs/Connections/Snowflake.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/Snowflake",
+              "permalink": "/build/docs/Connections/Snowflake",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Snowflake.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Rackbeat",
+                "permalink": "/build/docs/Connections/Rackbeat"
+              },
+              "next": {
+                "title": "WebCRM",
+                "permalink": "/build/docs/Connections/WebCRM"
+              }
+            },
+            {
+              "unversionedId": "Connections/WebCRM",
+              "id": "Connections/WebCRM",
+              "isDocsHomePage": false,
+              "title": "WebCRM",
+              "description": "Download the macros here",
+              "source": "@site/docs/Connections/WebCRM.md",
+              "sourceDirName": "Connections",
+              "slug": "/Connections/WebCRM",
+              "permalink": "/build/docs/Connections/WebCRM",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/WebCRM.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Snowflake",
+                "permalink": "/build/docs/Connections/Snowflake"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/build/docs/AlteryxAPI/general"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Intro",
+              "description": "Here you fill find documentation on common connections, problems, past training and more",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/build/docs/intro",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/intro.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Bubble",
+                "permalink": "/build/docs/Connections/Bubble"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/congratulations",
+              "id": "tutorial-basics/congratulations",
+              "isDocsHomePage": false,
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/tutorial-basics/congratulations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratulations",
+              "permalink": "/build/docs/tutorial-basics/congratulations",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/congratulations.md",
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/build/docs/tutorial-basics/deploy-your-site"
+              },
+              "next": {
+                "title": "Manage Docs Versions",
+                "permalink": "/build/docs/tutorial-extras/manage-docs-versions"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-blog-post",
+              "id": "tutorial-basics/create-a-blog-post",
+              "isDocsHomePage": false,
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-blog-post",
+              "permalink": "/build/docs/tutorial-basics/create-a-blog-post",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-blog-post.md",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/build/docs/tutorial-basics/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/build/docs/tutorial-basics/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-document",
+              "id": "tutorial-basics/create-a-document",
+              "isDocsHomePage": false,
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/tutorial-basics/create-a-document.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-document",
+              "permalink": "/build/docs/tutorial-basics/create-a-document",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-document.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/build/docs/tutorial-basics/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/build/docs/tutorial-basics/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-page",
+              "id": "tutorial-basics/create-a-page",
+              "isDocsHomePage": false,
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/tutorial-basics/create-a-page.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-page",
+              "permalink": "/build/docs/tutorial-basics/create-a-page",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-page.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "API from Powershell",
+                "permalink": "/build/docs/AlteryxAPI/frompowershell"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/build/docs/tutorial-basics/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/deploy-your-site",
+              "id": "tutorial-basics/deploy-your-site",
+              "isDocsHomePage": false,
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/deploy-your-site",
+              "permalink": "/build/docs/tutorial-basics/deploy-your-site",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/deploy-your-site.md",
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/build/docs/tutorial-basics/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/build/docs/tutorial-basics/congratulations"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/markdown-features",
+              "id": "tutorial-basics/markdown-features",
+              "isDocsHomePage": false,
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/markdown-features",
+              "permalink": "/build/docs/tutorial-basics/markdown-features",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/markdown-features.mdx",
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/build/docs/tutorial-basics/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/build/docs/tutorial-basics/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/manage-docs-versions",
+              "id": "tutorial-extras/manage-docs-versions",
+              "isDocsHomePage": false,
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/build/docs/tutorial-extras/manage-docs-versions",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/manage-docs-versions.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/build/docs/tutorial-basics/congratulations"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/build/docs/tutorial-extras/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/translate-your-site",
+              "isDocsHomePage": false,
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/build/docs/tutorial-extras/translate-your-site",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/translate-your-site.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/build/docs/tutorial-extras/manage-docs-versions"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/build/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-30-welcome.md",
+            "source": "@site/blog/2019-05-30-welcome.md",
+            "title": "Welcome",
+            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
+            "date": "2019-05-30T00:00:00.000Z",
+            "formattedDate": "May 30, 2019",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/build/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/build/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/build/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "nextItem": {
+              "title": "Hello",
+              "permalink": "/build/blog/hello-world"
+            }
+          }
+        },
+        {
+          "id": "hello-world",
+          "metadata": {
+            "permalink": "/build/blog/hello-world",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-29-hello-world.md",
+            "source": "@site/blog/2019-05-29-hello-world.md",
+            "title": "Hello",
+            "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/build/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/build/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": true,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/build/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Hola",
+              "permalink": "/build/blog/hola"
+            }
+          }
+        },
+        {
+          "id": "hola",
+          "metadata": {
+            "permalink": "/build/blog/hola",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-28-hola.md",
+            "source": "@site/blog/2019-05-28-hola.md",
+            "title": "Hola",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/build/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/build/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "prevItem": {
+              "title": "Hello",
+              "permalink": "/build/blog/hello-world"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/build/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ]
+        }
+      ],
+      "blogTags": {
+        "facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/build/blog/tags/facebook"
+        },
+        "hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "hello-world"
+          ],
+          "permalink": "/build/blog/tags/hello"
+        },
+        "docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ],
+          "permalink": "/build/blog/tags/docusaurus"
+        },
+        "hola": {
+          "name": "hola",
+          "items": [
+            "hola"
+          ],
+          "permalink": "/build/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/build/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/build/helloReact",
+        "source": "@site/src/pages/helloReact.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/build/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/build/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "docusaurus-theme-search-algolia": {
+    "default": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Connections/Maconomy",
+  "id": "Connections/Maconomy",
+  "isDocsHomePage": false,
+  "title": "Maconomy",
+  "description": "To connect to maconomy you should be able to use a standard ODBC connection. This is very good",
+  "source": "@site/docs/Connections/Maconomy.md",
+  "sourceDirName": "Connections",
+  "slug": "/Connections/Maconomy",
+  "permalink": "/build/docs/Connections/Maconomy",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Maconomy.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HubSpot",
+    "permalink": "/build/docs/Connections/Hubspot"
+  },
+  "next": {
+    "title": "Microsoft Dynamics",
+    "permalink": "/build/docs/Connections/Microsoft Dynamics"
+  }
+}

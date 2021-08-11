@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Connections/Forecast",
+  "id": "Connections/Forecast",
+  "isDocsHomePage": false,
+  "title": "Forecast",
+  "description": "Forecast data can be extracted through the Harvest API.",
+  "source": "@site/docs/Connections/Forecast.md",
+  "sourceDirName": "Connections",
+  "slug": "/Connections/Forecast",
+  "permalink": "/build/docs/Connections/Forecast",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Connections/Forecast.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fixer.io",
+    "permalink": "/build/docs/Connections/Fixer.io"
+  },
+  "next": {
+    "title": "Harvest",
+    "permalink": "/build/docs/Connections/Harvest"
+  }
+}

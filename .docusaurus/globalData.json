@@ -1,0 +1,143 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/build/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/build/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "AlteryxAPI/frompowershell",
+              "path": "/build/docs/AlteryxAPI/frompowershell",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "AlteryxAPI/frompython",
+              "path": "/build/docs/AlteryxAPI/frompython",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "AlteryxAPI/general",
+              "path": "/build/docs/AlteryxAPI/general",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "AlteryxAPI/permissions",
+              "path": "/build/docs/AlteryxAPI/permissions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/Bubble",
+              "path": "/build/docs/Connections/Bubble",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/Economic",
+              "path": "/build/docs/Connections/Economic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/Fixer.io",
+              "path": "/build/docs/Connections/Fixer.io",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/Forecast",
+              "path": "/build/docs/Connections/Forecast",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/Harvest",
+              "path": "/build/docs/Connections/Harvest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/Hubspot",
+              "path": "/build/docs/Connections/Hubspot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/Maconomy",
+              "path": "/build/docs/Connections/Maconomy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/Microsoft Dynamics",
+              "path": "/build/docs/Connections/Microsoft Dynamics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/Oracle",
+              "path": "/build/docs/Connections/Oracle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/Rackbeat",
+              "path": "/build/docs/Connections/Rackbeat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/Snowflake",
+              "path": "/build/docs/Connections/Snowflake",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connections/WebCRM",
+              "path": "/build/docs/Connections/WebCRM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/build/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/build/docs/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/build/docs/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/build/docs/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/build/docs/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/build/docs/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/build/docs/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/build/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/build/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

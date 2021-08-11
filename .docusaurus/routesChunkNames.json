@@ -1,0 +1,206 @@
+{
+  "/build/-aa2": {
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
+  },
+  "/build/blog-313": {
+    "component": "a6aa9e1f",
+    "sidebar": "63f5ac75",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      },
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "57300bb5"
+  },
+  "/build/blog/hello-world-45e": {
+    "component": "ccc49370",
+    "sidebar": "63f5ac75",
+    "content": "d610846f"
+  },
+  "/build/blog/hola-e8b": {
+    "component": "ccc49370",
+    "sidebar": "63f5ac75",
+    "content": "bdd709f1"
+  },
+  "/build/blog/tags-126": {
+    "component": "01a85c17",
+    "sidebar": "63f5ac75",
+    "tags": "7870a6bb"
+  },
+  "/build/blog/tags/docusaurus-67b": {
+    "component": "6875c492",
+    "sidebar": "63f5ac75",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      },
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "10a54ddc"
+  },
+  "/build/blog/tags/facebook-834": {
+    "component": "6875c492",
+    "sidebar": "63f5ac75",
+    "items": [
+      {
+        "content": "af172acd"
+      }
+    ],
+    "metadata": "510b00ef"
+  },
+  "/build/blog/tags/hello-15b": {
+    "component": "6875c492",
+    "sidebar": "63f5ac75",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      }
+    ],
+    "metadata": "8b947b8d"
+  },
+  "/build/blog/tags/hola-1f5": {
+    "component": "6875c492",
+    "sidebar": "63f5ac75",
+    "items": [
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "7db63c73"
+  },
+  "/build/blog/welcome-bbd": {
+    "component": "ccc49370",
+    "sidebar": "63f5ac75",
+    "content": "2868cdab"
+  },
+  "/build/helloReact-058": {
+    "component": "06f8edbc",
+    "config": "5e9f5e1a"
+  },
+  "/build/markdown-page-d23": {
+    "component": "1f391b9e",
+    "content": "393be207"
+  },
+  "/build/search-aa4": {
+    "component": "efa66bd2"
+  },
+  "/build/docs-125": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/build/docs/AlteryxAPI/frompowershell-4f5": {
+    "component": "17896441",
+    "content": "6bd65fdf"
+  },
+  "/build/docs/AlteryxAPI/frompython-dfb": {
+    "component": "17896441",
+    "content": "5105d09d"
+  },
+  "/build/docs/AlteryxAPI/general-7a4": {
+    "component": "17896441",
+    "content": "d5a30cdd"
+  },
+  "/build/docs/AlteryxAPI/permissions-cde": {
+    "component": "17896441",
+    "content": "bcb0e25c"
+  },
+  "/build/docs/Connections/Bubble-dda": {
+    "component": "17896441",
+    "content": "6e333dcf"
+  },
+  "/build/docs/Connections/Economic-82d": {
+    "component": "17896441",
+    "content": "d095925e"
+  },
+  "/build/docs/Connections/Fixer.io-e73": {
+    "component": "17896441",
+    "content": "ebc44850"
+  },
+  "/build/docs/Connections/Forecast-2e8": {
+    "component": "17896441",
+    "content": "17fefddf"
+  },
+  "/build/docs/Connections/Harvest-017": {
+    "component": "17896441",
+    "content": "992b3140"
+  },
+  "/build/docs/Connections/Hubspot-bc6": {
+    "component": "17896441",
+    "content": "5f59d7dc"
+  },
+  "/build/docs/Connections/Maconomy-ece": {
+    "component": "17896441",
+    "content": "11b86293"
+  },
+  "/build/docs/Connections/Microsoft Dynamics-dd8": {
+    "component": "17896441",
+    "content": "60a6b77f"
+  },
+  "/build/docs/Connections/Oracle-5a5": {
+    "component": "17896441",
+    "content": "54c16697"
+  },
+  "/build/docs/Connections/Rackbeat-258": {
+    "component": "17896441",
+    "content": "0cb34bb2"
+  },
+  "/build/docs/Connections/Snowflake-7f7": {
+    "component": "17896441",
+    "content": "6976ba84"
+  },
+  "/build/docs/Connections/WebCRM-d1c": {
+    "component": "17896441",
+    "content": "4041e263"
+  },
+  "/build/docs/intro-071": {
+    "component": "17896441",
+    "content": "0e384e19"
+  },
+  "/build/docs/tutorial-basics/congratulations-731": {
+    "component": "17896441",
+    "content": "822bd8ab"
+  },
+  "/build/docs/tutorial-basics/create-a-blog-post-9c7": {
+    "component": "17896441",
+    "content": "533a09ca"
+  },
+  "/build/docs/tutorial-basics/create-a-document-b7c": {
+    "component": "17896441",
+    "content": "1e4232ab"
+  },
+  "/build/docs/tutorial-basics/create-a-page-519": {
+    "component": "17896441",
+    "content": "5c868d36"
+  },
+  "/build/docs/tutorial-basics/deploy-your-site-4cb": {
+    "component": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/build/docs/tutorial-basics/markdown-features-ffb": {
+    "component": "17896441",
+    "content": "18c41134"
+  },
+  "/build/docs/tutorial-extras/manage-docs-versions-c3f": {
+    "component": "17896441",
+    "content": "dff1c289"
+  },
+  "/build/docs/tutorial-extras/translate-your-site-1c7": {
+    "component": "17896441",
+    "content": "e44a2883"
+  }
+}
