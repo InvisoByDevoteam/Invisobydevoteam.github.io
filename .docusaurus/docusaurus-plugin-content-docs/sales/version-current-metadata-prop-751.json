@@ -31,13 +31,13 @@
           },
           {
             "type": "link",
-            "label": "Sell a POC",
-            "href": "/build/sales/POC/Sell"
+            "label": "TimeRegistration",
+            "href": "/build/sales/POC/TimeRegistration"
           },
           {
             "type": "link",
-            "label": "Register Time",
-            "href": "/build/sales/POC/TimeRegistration"
+            "label": "Sell a POC",
+            "href": "/build/sales/POC/Sell"
           }
         ],
         "collapsed": true

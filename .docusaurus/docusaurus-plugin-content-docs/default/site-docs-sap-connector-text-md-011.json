@@ -1,0 +1,26 @@
+{
+  "unversionedId": "SAP Connector/text",
+  "id": "SAP Connector/text",
+  "isDocsHomePage": false,
+  "title": "Written Guidelines",
+  "description": "Connecting to SAP BW Through Alteryx",
+  "source": "@site/docs/SAP Connector/text.md",
+  "sourceDirName": "SAP Connector",
+  "slug": "/SAP Connector/text",
+  "permalink": "/build/docs/SAP Connector/text",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SAP Connector/text.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Video Guidelines",
+    "permalink": "/build/docs/SAP Connector/videos"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/build/docs/SAP Connector/faq"
+  }
+}

@@ -69,7 +69,7 @@ export default [
 },
 {
   path: '/build/docs',
-  component: ComponentCreator('/build/docs','125'),
+  component: ComponentCreator('/build/docs','c1e'),
   
   routes: [
 {
@@ -158,43 +158,18 @@ export default [
   exact: true,
 },
 {
-  path: '/build/docs/tutorial-basics/congratulations',
-  component: ComponentCreator('/build/docs/tutorial-basics/congratulations','731'),
+  path: '/build/docs/SAP Connector/faq',
+  component: ComponentCreator('/build/docs/SAP Connector/faq','cfc'),
   exact: true,
 },
 {
-  path: '/build/docs/tutorial-basics/create-a-blog-post',
-  component: ComponentCreator('/build/docs/tutorial-basics/create-a-blog-post','9c7'),
+  path: '/build/docs/SAP Connector/text',
+  component: ComponentCreator('/build/docs/SAP Connector/text','c7c'),
   exact: true,
 },
 {
-  path: '/build/docs/tutorial-basics/create-a-document',
-  component: ComponentCreator('/build/docs/tutorial-basics/create-a-document','b7c'),
-  exact: true,
-},
-{
-  path: '/build/docs/tutorial-basics/create-a-page',
-  component: ComponentCreator('/build/docs/tutorial-basics/create-a-page','519'),
-  exact: true,
-},
-{
-  path: '/build/docs/tutorial-basics/deploy-your-site',
-  component: ComponentCreator('/build/docs/tutorial-basics/deploy-your-site','4cb'),
-  exact: true,
-},
-{
-  path: '/build/docs/tutorial-basics/markdown-features',
-  component: ComponentCreator('/build/docs/tutorial-basics/markdown-features','ffb'),
-  exact: true,
-},
-{
-  path: '/build/docs/tutorial-extras/manage-docs-versions',
-  component: ComponentCreator('/build/docs/tutorial-extras/manage-docs-versions','c3f'),
-  exact: true,
-},
-{
-  path: '/build/docs/tutorial-extras/translate-your-site',
-  component: ComponentCreator('/build/docs/tutorial-extras/translate-your-site','1c7'),
+  path: '/build/docs/SAP Connector/videos',
+  component: ComponentCreator('/build/docs/SAP Connector/videos','498'),
   exact: true,
 },
 ]

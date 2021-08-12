@@ -1,0 +1,19 @@
+{
+  "unversionedId": "SAP Connector/general",
+  "id": "SAP Connector/general",
+  "isDocsHomePage": false,
+  "title": "SAP Connector",
+  "description": "Novo Nordisk SAP Connector",
+  "source": "@site/docs/SAP Connector/general.md",
+  "sourceDirName": "SAP Connector",
+  "slug": "/SAP Connector/general",
+  "permalink": "/build/docs/SAP Connector/general",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SAP Connector/general.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API from Powershell",
+    "permalink": "/build/docs/AlteryxAPI/frompowershell"
+  }
+}

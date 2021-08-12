@@ -15,11 +15,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Process",
-    "permalink": "/build/sales/POC/Process"
-  },
-  "next": {
-    "title": "Register Time",
+    "title": "TimeRegistration",
     "permalink": "/build/sales/POC/TimeRegistration"
   }
 }

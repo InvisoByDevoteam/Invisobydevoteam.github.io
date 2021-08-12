@@ -1,0 +1,26 @@
+{
+  "unversionedId": "SAP Connector/videos",
+  "id": "SAP Connector/videos",
+  "isDocsHomePage": false,
+  "title": "Video Guidelines",
+  "description": "Novo Nordisk uses an SAP connector from DVW. It is quite difficult to use, and most problems from the support come with errors from logging in. See the videos below on how to use the tools in a Novo context, and a guide below.",
+  "source": "@site/docs/SAP Connector/videos.md",
+  "sourceDirName": "SAP Connector",
+  "slug": "/SAP Connector/videos",
+  "permalink": "/build/docs/SAP Connector/videos",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SAP Connector/videos.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API from Powershell",
+    "permalink": "/build/docs/AlteryxAPI/frompowershell"
+  },
+  "next": {
+    "title": "Written Guidelines",
+    "permalink": "/build/docs/SAP Connector/text"
+  }
+}

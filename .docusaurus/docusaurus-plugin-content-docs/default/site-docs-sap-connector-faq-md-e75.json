@@ -1,0 +1,22 @@
+{
+  "unversionedId": "SAP Connector/faq",
+  "id": "SAP Connector/faq",
+  "isDocsHomePage": false,
+  "title": "Troubleshooting",
+  "description": "Message tab",
+  "source": "@site/docs/SAP Connector/faq.md",
+  "sourceDirName": "SAP Connector",
+  "slug": "/SAP Connector/faq",
+  "permalink": "/build/docs/SAP Connector/faq",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SAP Connector/faq.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Written Guidelines",
+    "permalink": "/build/docs/SAP Connector/text"
+  }
+}

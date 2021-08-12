@@ -106,54 +106,22 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "SAP Connector",
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/build/docs/tutorial-basics/create-a-page"
+            "label": "Video Guidelines",
+            "href": "/build/docs/SAP Connector/videos"
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/build/docs/tutorial-basics/create-a-document"
+            "label": "Written Guidelines",
+            "href": "/build/docs/SAP Connector/text"
           },
           {
             "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/build/docs/tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/build/docs/tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/build/docs/tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/build/docs/tutorial-basics/congratulations"
-          }
-        ],
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Extras",
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/build/docs/tutorial-extras/manage-docs-versions"
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/build/docs/tutorial-extras/translate-your-site"
+            "label": "Troubleshooting",
+            "href": "/build/docs/SAP Connector/faq"
           }
         ],
         "collapsed": true
@@ -178,13 +146,8 @@
     "/build/docs/Connections/Snowflake": "tutorialSidebar",
     "/build/docs/Connections/WebCRM": "tutorialSidebar",
     "/build/docs/intro": "tutorialSidebar",
-    "/build/docs/tutorial-basics/congratulations": "tutorialSidebar",
-    "/build/docs/tutorial-basics/create-a-blog-post": "tutorialSidebar",
-    "/build/docs/tutorial-basics/create-a-document": "tutorialSidebar",
-    "/build/docs/tutorial-basics/create-a-page": "tutorialSidebar",
-    "/build/docs/tutorial-basics/deploy-your-site": "tutorialSidebar",
-    "/build/docs/tutorial-basics/markdown-features": "tutorialSidebar",
-    "/build/docs/tutorial-extras/manage-docs-versions": "tutorialSidebar",
-    "/build/docs/tutorial-extras/translate-your-site": "tutorialSidebar"
+    "/build/docs/SAP Connector/faq": "tutorialSidebar",
+    "/build/docs/SAP Connector/text": "tutorialSidebar",
+    "/build/docs/SAP Connector/videos": "tutorialSidebar"
   }
 }

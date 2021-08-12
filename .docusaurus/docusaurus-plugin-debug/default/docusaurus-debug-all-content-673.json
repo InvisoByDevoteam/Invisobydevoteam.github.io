@@ -100,46 +100,19 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "SAP Connector",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "id": "SAP Connector/videos"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
+                    "id": "SAP Connector/text"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
-                  }
-                ],
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Tutorial - Extras",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
+                    "id": "SAP Connector/faq"
                   }
                 ],
                 "collapsed": true
@@ -164,14 +137,9 @@
             "/build/docs/Connections/Snowflake": "tutorialSidebar",
             "/build/docs/Connections/WebCRM": "tutorialSidebar",
             "/build/docs/intro": "tutorialSidebar",
-            "/build/docs/tutorial-basics/congratulations": "tutorialSidebar",
-            "/build/docs/tutorial-basics/create-a-blog-post": "tutorialSidebar",
-            "/build/docs/tutorial-basics/create-a-document": "tutorialSidebar",
-            "/build/docs/tutorial-basics/create-a-page": "tutorialSidebar",
-            "/build/docs/tutorial-basics/deploy-your-site": "tutorialSidebar",
-            "/build/docs/tutorial-basics/markdown-features": "tutorialSidebar",
-            "/build/docs/tutorial-extras/manage-docs-versions": "tutorialSidebar",
-            "/build/docs/tutorial-extras/translate-your-site": "tutorialSidebar"
+            "/build/docs/SAP Connector/faq": "tutorialSidebar",
+            "/build/docs/SAP Connector/text": "tutorialSidebar",
+            "/build/docs/SAP Connector/videos": "tutorialSidebar"
           },
           "docs": [
             {
@@ -196,8 +164,8 @@
                 "permalink": "/build/docs/AlteryxAPI/frompython"
               },
               "next": {
-                "title": "Create a Page",
-                "permalink": "/build/docs/tutorial-basics/create-a-page"
+                "title": "Video Guidelines",
+                "permalink": "/build/docs/SAP Connector/videos"
               }
             },
             {
@@ -577,42 +545,16 @@
               }
             },
             {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
+              "unversionedId": "SAP Connector/faq",
+              "id": "SAP Connector/faq",
               "isDocsHomePage": false,
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/build/docs/tutorial-basics/congratulations",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/congratulations.md",
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/build/docs/tutorial-basics/deploy-your-site"
-              },
-              "next": {
-                "title": "Manage Docs Versions",
-                "permalink": "/build/docs/tutorial-extras/manage-docs-versions"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
-              "isDocsHomePage": false,
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/build/docs/tutorial-basics/create-a-blog-post",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-blog-post.md",
+              "title": "Troubleshooting",
+              "description": "Message tab",
+              "source": "@site/docs/SAP Connector/faq.md",
+              "sourceDirName": "SAP Connector",
+              "slug": "/SAP Connector/faq",
+              "permalink": "/build/docs/SAP Connector/faq",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SAP Connector/faq.md",
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
@@ -620,25 +562,21 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Document",
-                "permalink": "/build/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/build/docs/tutorial-basics/markdown-features"
+                "title": "Written Guidelines",
+                "permalink": "/build/docs/SAP Connector/text"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
+              "unversionedId": "SAP Connector/text",
+              "id": "SAP Connector/text",
               "isDocsHomePage": false,
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/build/docs/tutorial-basics/create-a-document",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-document.md",
+              "title": "Written Guidelines",
+              "description": "Connecting to SAP BW Through Alteryx",
+              "source": "@site/docs/SAP Connector/text.md",
+              "sourceDirName": "SAP Connector",
+              "slug": "/SAP Connector/text",
+              "permalink": "/build/docs/SAP Connector/text",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SAP Connector/text.md",
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
@@ -646,25 +584,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Page",
-                "permalink": "/build/docs/tutorial-basics/create-a-page"
+                "title": "Video Guidelines",
+                "permalink": "/build/docs/SAP Connector/videos"
               },
               "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/build/docs/tutorial-basics/create-a-blog-post"
+                "title": "Troubleshooting",
+                "permalink": "/build/docs/SAP Connector/faq"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
+              "unversionedId": "SAP Connector/videos",
+              "id": "SAP Connector/videos",
               "isDocsHomePage": false,
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/build/docs/tutorial-basics/create-a-page",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-a-page.md",
+              "title": "Video Guidelines",
+              "description": "Novo Nordisk uses an SAP connector from DVW. It is quite difficult to use, and most problems from the support come with errors from logging in. See the videos below on how to use the tools in a Novo context, and a guide below.",
+              "source": "@site/docs/SAP Connector/videos.md",
+              "sourceDirName": "SAP Connector",
+              "slug": "/SAP Connector/videos",
+              "permalink": "/build/docs/SAP Connector/videos",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SAP Connector/videos.md",
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
@@ -676,108 +614,8 @@
                 "permalink": "/build/docs/AlteryxAPI/frompowershell"
               },
               "next": {
-                "title": "Create a Document",
-                "permalink": "/build/docs/tutorial-basics/create-a-document"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
-              "isDocsHomePage": false,
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/build/docs/tutorial-basics/deploy-your-site",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/deploy-your-site.md",
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/build/docs/tutorial-basics/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/build/docs/tutorial-basics/congratulations"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
-              "isDocsHomePage": false,
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/build/docs/tutorial-basics/markdown-features",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/markdown-features.mdx",
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/build/docs/tutorial-basics/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/build/docs/tutorial-basics/deploy-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "isDocsHomePage": false,
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/build/docs/tutorial-extras/manage-docs-versions",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/manage-docs-versions.md",
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Congratulations!",
-                "permalink": "/build/docs/tutorial-basics/congratulations"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/build/docs/tutorial-extras/translate-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "isDocsHomePage": false,
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/build/docs/tutorial-extras/translate-your-site",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-extras/translate-your-site.md",
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/build/docs/tutorial-extras/manage-docs-versions"
+                "title": "Written Guidelines",
+                "permalink": "/build/docs/SAP Connector/text"
               }
             }
           ]
@@ -808,10 +646,6 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "POC/TimeRegistration"
-                  },
-                  {
-                    "type": "doc",
                     "id": "POC/Intro"
                   },
                   {
@@ -821,6 +655,10 @@
                   {
                     "type": "doc",
                     "id": "POC/Process"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "POC/TimeRegistration"
                   },
                   {
                     "type": "doc",
@@ -857,108 +695,24 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Register Time",
-                "permalink": "/build/sales/POC/TimeRegistration"
+                "title": "Intro",
+                "permalink": "/build/sales/POC/Intro"
               }
             },
             {
               "unversionedId": "POC/Intro",
               "id": "POC/Intro",
               "isDocsHomePage": false,
-              "title": "Economic",
-              "description": "Download the macros here",
+              "title": "Intro",
+              "description": "",
               "source": "@site/sales/POC/Intro.md",
               "sourceDirName": "POC",
               "slug": "/POC/Intro",
               "permalink": "/build/sales/POC/Intro",
               "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Register Time",
-                "permalink": "/build/sales/POC/TimeRegistration"
-              },
-              "next": {
-                "title": "Economic",
-                "permalink": "/build/sales/POC/Past"
-              }
-            },
-            {
-              "unversionedId": "POC/Past",
-              "id": "POC/Past",
-              "isDocsHomePage": false,
-              "title": "Economic",
-              "description": "Download the macros here",
-              "source": "@site/sales/POC/Past.md",
-              "sourceDirName": "POC",
-              "slug": "/POC/Past",
-              "permalink": "/build/sales/POC/Past",
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Economic",
-                "permalink": "/build/sales/POC/Intro"
-              },
-              "next": {
-                "title": "Economic",
-                "permalink": "/build/sales/POC/Process"
-              }
-            },
-            {
-              "unversionedId": "POC/Process",
-              "id": "POC/Process",
-              "isDocsHomePage": false,
-              "title": "Economic",
-              "description": "Download the macros here",
-              "source": "@site/sales/POC/Process.md",
-              "sourceDirName": "POC",
-              "slug": "/POC/Process",
-              "permalink": "/build/sales/POC/Process",
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Economic",
-                "permalink": "/build/sales/POC/Past"
-              },
-              "next": {
-                "title": "Economic",
-                "permalink": "/build/sales/POC/Sell"
-              }
-            },
-            {
-              "unversionedId": "POC/Sell",
-              "id": "POC/Sell",
-              "isDocsHomePage": false,
-              "title": "Economic",
-              "description": "Download the macros here",
-              "source": "@site/sales/POC/Sell.md",
-              "sourceDirName": "POC",
-              "slug": "/POC/Sell",
-              "permalink": "/build/sales/POC/Sell",
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Economic",
-                "permalink": "/build/sales/POC/Process"
-              }
-            },
-            {
-              "unversionedId": "POC/TimeRegistration",
-              "id": "POC/TimeRegistration",
-              "isDocsHomePage": false,
-              "title": "Register Time",
-              "description": "",
-              "source": "@site/sales/POC/TimeRegistration.md",
-              "sourceDirName": "POC",
-              "slug": "/POC/TimeRegistration",
-              "permalink": "/build/sales/POC/TimeRegistration",
-              "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -966,8 +720,104 @@
                 "permalink": "/build/sales/intro"
               },
               "next": {
-                "title": "Economic",
+                "title": "Past POCs",
+                "permalink": "/build/sales/POC/Past"
+              }
+            },
+            {
+              "unversionedId": "POC/Past",
+              "id": "POC/Past",
+              "isDocsHomePage": false,
+              "title": "Past POCs",
+              "description": "",
+              "source": "@site/sales/POC/Past.md",
+              "sourceDirName": "POC",
+              "slug": "/POC/Past",
+              "permalink": "/build/sales/POC/Past",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Intro",
                 "permalink": "/build/sales/POC/Intro"
+              },
+              "next": {
+                "title": "Process",
+                "permalink": "/build/sales/POC/Process"
+              }
+            },
+            {
+              "unversionedId": "POC/Process",
+              "id": "POC/Process",
+              "isDocsHomePage": false,
+              "title": "Process",
+              "description": "",
+              "source": "@site/sales/POC/Process.md",
+              "sourceDirName": "POC",
+              "slug": "/POC/Process",
+              "permalink": "/build/sales/POC/Process",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Past POCs",
+                "permalink": "/build/sales/POC/Past"
+              },
+              "next": {
+                "title": "TimeRegistration",
+                "permalink": "/build/sales/POC/TimeRegistration"
+              }
+            },
+            {
+              "unversionedId": "POC/Sell",
+              "id": "POC/Sell",
+              "isDocsHomePage": false,
+              "title": "Sell a POC",
+              "description": "",
+              "source": "@site/sales/POC/Sell.md",
+              "sourceDirName": "POC",
+              "slug": "/POC/Sell",
+              "permalink": "/build/sales/POC/Sell",
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "TimeRegistration",
+                "permalink": "/build/sales/POC/TimeRegistration"
+              }
+            },
+            {
+              "unversionedId": "POC/TimeRegistration",
+              "id": "POC/TimeRegistration",
+              "isDocsHomePage": false,
+              "title": "TimeRegistration",
+              "description": "",
+              "source": "@site/sales/POC/TimeRegistration.md",
+              "sourceDirName": "POC",
+              "slug": "/POC/TimeRegistration",
+              "permalink": "/build/sales/POC/TimeRegistration",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Process",
+                "permalink": "/build/sales/POC/Process"
+              },
+              "next": {
+                "title": "Sell a POC",
+                "permalink": "/build/sales/POC/Sell"
               }
             }
           ]

@@ -99,7 +99,7 @@
   "/build/search-f51": {
     "component": "58726a0d"
   },
-  "/build/docs-125": {
+  "/build/docs-c1e": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -171,37 +171,17 @@
     "component": "17896441",
     "content": "0e384e19"
   },
-  "/build/docs/tutorial-basics/congratulations-731": {
+  "/build/docs/SAP Connector/faq-cfc": {
     "component": "17896441",
-    "content": "822bd8ab"
+    "content": "e752178f"
   },
-  "/build/docs/tutorial-basics/create-a-blog-post-9c7": {
+  "/build/docs/SAP Connector/text-c7c": {
     "component": "17896441",
-    "content": "533a09ca"
+    "content": "011b4643"
   },
-  "/build/docs/tutorial-basics/create-a-document-b7c": {
+  "/build/docs/SAP Connector/videos-498": {
     "component": "17896441",
-    "content": "1e4232ab"
-  },
-  "/build/docs/tutorial-basics/create-a-page-519": {
-    "component": "17896441",
-    "content": "5c868d36"
-  },
-  "/build/docs/tutorial-basics/deploy-your-site-4cb": {
-    "component": "17896441",
-    "content": "f55d3e7a"
-  },
-  "/build/docs/tutorial-basics/markdown-features-ffb": {
-    "component": "17896441",
-    "content": "18c41134"
-  },
-  "/build/docs/tutorial-extras/manage-docs-versions-c3f": {
-    "component": "17896441",
-    "content": "dff1c289"
-  },
-  "/build/docs/tutorial-extras/translate-your-site-1c7": {
-    "component": "17896441",
-    "content": "e44a2883"
+    "content": "53d1ef54"
   },
   "/build/sales-96d": {
     "component": "1be78505",
