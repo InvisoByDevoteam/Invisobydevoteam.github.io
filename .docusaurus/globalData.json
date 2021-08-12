@@ -1,49 +1,5 @@
 {
   "docusaurus-plugin-content-docs": {
-    "sales": {
-      "path": "/build/sales",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/build/sales",
-          "mainDocId": "intro",
-          "docs": [
-            {
-              "id": "intro",
-              "path": "/build/sales/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "POC/Intro",
-              "path": "/build/sales/POC/Intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "POC/Past",
-              "path": "/build/sales/POC/Past",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "POC/Process",
-              "path": "/build/sales/POC/Process",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "POC/Sell",
-              "path": "/build/sales/POC/Sell",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "POC/TimeRegistration",
-              "path": "/build/sales/POC/TimeRegistration",
-              "sidebar": "tutorialSidebar"
-            }
-          ]
-        }
-      ]
-    },
     "default": {
       "path": "/build/docs",
       "versions": [
@@ -152,6 +108,50 @@
             {
               "id": "SAP Connector/videos",
               "path": "/build/docs/SAP Connector/videos",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    },
+    "sales": {
+      "path": "/build/sales",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/build/sales",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/build/sales/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "POC/Intro",
+              "path": "/build/sales/POC/Intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "POC/Past",
+              "path": "/build/sales/POC/Past",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "POC/Process",
+              "path": "/build/sales/POC/Process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "POC/Sell",
+              "path": "/build/sales/POC/Sell",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "POC/TimeRegistration",
+              "path": "/build/sales/POC/TimeRegistration",
               "sidebar": "tutorialSidebar"
             }
           ]
